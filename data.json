@@ -1,0 +1,9 @@
+{
+  "first-key": 9,
+  "second-key": "hello",
+  "list": [1, 2, 3, 4, 5],
+  "another": {
+    "another-key": true,
+    "last-key": false
+  }
+}
